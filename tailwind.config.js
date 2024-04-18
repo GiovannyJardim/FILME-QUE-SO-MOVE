@@ -6,7 +6,7 @@ export default {
   ],
   theme: {
     fontFamily: {
-      'libra': '"Libre Barcode 39"'
+
     }
   },
   plugins: [],

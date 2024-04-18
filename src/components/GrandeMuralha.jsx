@@ -11,7 +11,7 @@ export default function GrandeMuralha() {
             <main>
                 <a href="https://chat.openai.com/c/da4fa677-7017-43b3-8efa-1b34c91818f2">GRANDE ENORME MURALHA</a>
 
-                <p className="text-5xl font-libra pt-20 ms-auto me-auto text-1xl">
+                <p className="text-5xl pt-20 ms-auto me-auto text-1xl">
                 
                     "A Grande Muralha" é um épico de fantasia e ação que combina elementos históricos com uma dose generosa de criatividade. Dirigido por Zhang Yimou e lançado em 2016, o filme mergulha os espectadores na grandiosidade e mistério da Grande Muralha da China, apresentando-a não apenas como uma estrutura defensiva, mas como o último bastião da humanidade contra uma ameaça sobrenatural.
 
